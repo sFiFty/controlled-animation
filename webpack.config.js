@@ -11,7 +11,6 @@ module.exports = {
         publicPath: '/',
 		filename: 'bundle.js'
     },
-    watch: true,
     devServer: {
         inline: true,
         port: 3000
